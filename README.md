@@ -452,7 +452,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 👨‍💻 **Kiran Rakh**  
 🧠 *DevOps Intern @ LinuxWorld Informatics Pvt Ltd*  
-🔗 [LinkedIn](https://www.linkedin.com/in/kiran-rakh/) | [GitHub](https://github.com/kiranrakh)  
+🔗 [LinkedIn](www.linkedin.com/in/jadhavharshwardhan) | [GitHub](https://github.com/Harshwardhanjadhav0/Multi-Tier-Infrastructure-using-Ansible-on-Kubernetes-LAMP-Stack-)  
 👨‍🏫 **Mentorship by**: *Vimal Daga Sir*
 
 ---
